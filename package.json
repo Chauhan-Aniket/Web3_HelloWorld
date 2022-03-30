@@ -19,5 +19,8 @@
 	"homepage": "https://github.com/Chauhan-Aniket/Web3_HelloWorld#readme",
 	"devDependencies": {
 		"hardhat": "^2.9.2"
+	},
+	"dependencies": {
+		"dotenv": "^16.0.0"
 	}
 }
