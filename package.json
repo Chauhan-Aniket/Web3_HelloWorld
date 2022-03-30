@@ -19,6 +19,7 @@
 	"homepage": "https://github.com/Chauhan-Aniket/Web3_HelloWorld#readme",
 	"devDependencies": {
 		"@nomiclabs/hardhat-ethers": "^2.0.5",
+		"ethers": "^5.0.0",
 		"hardhat": "^2.9.2"
 	},
 	"dependencies": {
